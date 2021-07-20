@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @160100
+- 👋 Hi, I’m Maria Alves
 - 👀 I’m interested in em trabalhar na área de TI
 - 🌱 I’m currently learning QA
 - 💞️ I’m looking to collaborate on criação de software e programas 
